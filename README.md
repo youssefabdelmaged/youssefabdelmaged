@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I am a skilled Front-End Developer with a Bachelor's degree in Information Systems from Suez Canal University. With proficiency in HTML, CSS, JavaScript, React JS, Next JS, and Tailwind CSS, Mega has a strong foundation in modern web development. As a self-taught developer, they have successfully completed courses in Modern React and Redux, as well as the Foundations of Frontend, showcasing their commitment to continuous learning.</h6>
+<h6 align="left">I am a skilled Front-End Developer with a Bachelor's degree in Information Systems from Suez Canal University. With proficiency in HTML, CSS, JavaScript, React JS, Next JS, and Tailwind CSS, I have a strong foundation in modern web development. As a self-taught developer, I have successfully completed courses in Modern React and Redux, as well as the Foundations of Frontend, showcasing their commitment to continuous learning.</h6>
 
 ###
 
