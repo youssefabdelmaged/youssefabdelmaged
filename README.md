@@ -47,7 +47,7 @@
   <a href="youssefabdelmaged50@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="+201203116454" target="_blank">
+  <a href="https://wa.me/+201203116454" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
