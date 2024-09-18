@@ -71,7 +71,7 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/youssefabdelmaged/youssefabdelmaged/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/youssefabdelmaged/youssefabdelmaged/output/snake2.svg" alt="Snake animation" />
 
 ###
 
