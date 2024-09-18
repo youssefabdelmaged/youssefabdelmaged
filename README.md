@@ -71,7 +71,11 @@
 ###
 <br clear="both">
 
-![snake animation](https://github.com/youssefabdelmaged/youssefabdelmaged/blob/output/github-contribution-grid-snake2.svg)
+
+
+<img src="(https://github.com/youssefabdelmaged/youssefabdelmaged/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
+###
 
 ###
 
