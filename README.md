@@ -73,10 +73,5 @@ As a self-taught developer with strong academic foundations, I continuously impr
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/youssefabdelmaged/count.svg"/>
-</div>
-
----
 
 <img src="https://raw.githubusercontent.com/youssefabdelmaged/youssefabdelmaged/output/snake.svg" alt="Snake animation"/>
