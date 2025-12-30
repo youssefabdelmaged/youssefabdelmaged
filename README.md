@@ -45,12 +45,12 @@ As a self-taught developer with strong academic foundations, I continuously impr
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssefabdelmaged&show_icons=true&count_private=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefabdelmaged&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
+</div> -->
 
 ---
 
