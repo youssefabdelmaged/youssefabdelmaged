@@ -49,11 +49,9 @@ I focus on clean code, scalable architecture, and pixel-perfect UI implementatio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssefabdelmaged&theme=dark&hide_border=false&count_private=true" height="165"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=youssefabdelmaged&theme=dark&hide_border=false" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefabdelmaged&theme=dark&hide_border=false&layout=compact" height="165"/>
 
 </div>
 
