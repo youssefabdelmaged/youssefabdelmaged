@@ -76,4 +76,3 @@ I focus on clean code, scalable architecture, and pixel-perfect UI implementatio
 
 ---
 
-<img src="https://raw.githubusercontent.com/youssefabdelmaged/youssefabdelmaged/output/snake.svg" alt="Snake animation"/>
