@@ -42,19 +42,6 @@ I focus on clean code, scalable architecture, and pixel-perfect UI implementatio
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=youssefabdelmaged&theme=dark&hide_border=false" height="165"/>
-
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
